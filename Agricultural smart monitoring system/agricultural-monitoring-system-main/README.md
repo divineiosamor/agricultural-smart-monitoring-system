@@ -7,7 +7,7 @@ A full-stack application for a Smart Agricultural Monitoring System, using a Fla
 
 ## Project Description
 
-This project is a web application designed to monitor agricultural conditions It focuses on developing a smart agricultural monitoring platform that efficiently collects and manages environmental data. The system uses predictive coding, a lossless data compression technique, to reduce the volume of sensor data transmitted over the network. It uses a Python Flask backend to handle data, which is stored and managed in a MySQL database. The front-end, built with HTML, CSS, and JavaScript, provides a user interface to visualize and interact with the data.
+This project is a web application designed to monitor agricultural conditions. It focuses on developing a smart agricultural monitoring platform that efficiently collects and manages environmental data. The system uses predictive coding, a lossless data compression technique, to reduce the volume of sensor data transmitted over the network. It uses a Python Flask backend to handle data, which is stored and managed in a MySQL database. The front-end, built with HTML, CSS, and JavaScript, provides a user interface to visualize and interact with the data.
 
 ## Features
 
